@@ -1,8 +1,7 @@
+# **BudgetBee**
 
-### **BudgetBee**
 
-
-# 🚀 **Features Overview**
+## 🚀 **Features Overview**
 
 A web application meant to manage one's personal finances, track bank accounts and visualize expenses with ease.  
 
@@ -63,7 +62,7 @@ A web application meant to manage one's personal finances, track bank accounts a
 - Real-time synchronization with the user's dashboard and reports.  
 
 
-# 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 An overview of the technologies powering the BudgetBee application.
 
@@ -101,7 +100,7 @@ An overview of the technologies powering the BudgetBee application.
 - **Persistence API:** Jakarta Persistence API  
 
 
-# 🚀 **How to Build and Run**
+## 🚀 **How to Build and Run**
 
 Follow these step-by-step instructions to set up, build, and run the FINTRACK project.
 
@@ -113,9 +112,6 @@ Follow these step-by-step instructions to set up, build, and run the FINTRACK pr
 - Install **MySQL Database**  
 - Install **Maven** (for backend)  
 - Install **npm** (for frontend)  
-
-
-
 
 
 
