@@ -6,9 +6,8 @@
 
 An overview of the technologies powering the BudgetBee application.
 
----
 
-<details>
+
 <summary>⚙️ **Backend** - Java & Spring Boot</summary>
 
 - **Language:** Java 17  
@@ -19,7 +18,7 @@ An overview of the technologies powering the BudgetBee application.
 - **Testing:** JUnit, Spring Security Test  
 - **Build Tool:** Maven  
 
-</details>
+
 
 ---
 
