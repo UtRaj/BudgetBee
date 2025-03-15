@@ -1,4 +1,4 @@
-# **BudgetBee**
+# **BudgetBee: The Personal Finance Tracker**
 
 
 ## 🚀 **Features Overview**
