@@ -1,44 +1,5 @@
 
-# **BudgetBee**
-
-
-# 🛠️ **Tech Stack**
-
-An overview of the technologies powering the BudgetBee application.
-
-
-⚙️ **Backend** - Java & Spring Boot
-
-- **Language:** Java 17  
-- **Framework:** Spring Boot  
-- **Database Interaction:** Spring Data JPA  
-- **Security:** Spring Security, OAuth2 Resource Server  
-- **Validation:** Hibernate Validator  
-- **Testing:** JUnit, Spring Security Test  
-- **Build Tool:** Maven  
-
-
-💻 **Frontend** - ReactJS
-
-- **Language:** JavaScript (Node.js 18.15.0)  
-- **Framework:** ReactJS  
-- **UI Library:** Material UI (MUI), Bootstrap  
-- **State Management:** Redux, Redux Thunk, Redux Persist  
-- **Routing:** React Router  
-- **Charts & Visualization:** Chart.js, React-Chartjs-2  
-- **HTTP Requests:** Axios  
-- **Authentication:** bcryptjs, js-cookie  
-- **Testing:** Jest, React Testing Library  
-
-
-
-🗄️ **Database** - MySQL
-
-- **Database System:** MySQL  
-- **ORM:** Hibernate (JPA)  
-- **Connector:** `mysql-connector-java`  
-- **Persistence API:** Jakarta Persistence API  
-
+### **BudgetBee**
 
 
 # 🚀 **Features Overview**
@@ -102,7 +63,45 @@ A web application meant to manage one's personal finances, track bank accounts a
 - Real-time synchronization with the user's dashboard and reports.  
 
 
-# 🚀 **How to Build and Run FINTRACK**
+# 🛠️ **Tech Stack**
+
+An overview of the technologies powering the BudgetBee application.
+
+
+⚙️ **Backend** - Java & Spring Boot
+
+- **Language:** Java 17  
+- **Framework:** Spring Boot  
+- **Database Interaction:** Spring Data JPA  
+- **Security:** Spring Security, OAuth2 Resource Server  
+- **Validation:** Hibernate Validator  
+- **Testing:** JUnit, Spring Security Test  
+- **Build Tool:** Maven  
+
+
+💻 **Frontend** - ReactJS
+
+- **Language:** JavaScript (Node.js 18.15.0)  
+- **Framework:** ReactJS  
+- **UI Library:** Material UI (MUI), Bootstrap  
+- **State Management:** Redux, Redux Thunk, Redux Persist  
+- **Routing:** React Router  
+- **Charts & Visualization:** Chart.js, React-Chartjs-2  
+- **HTTP Requests:** Axios  
+- **Authentication:** bcryptjs, js-cookie  
+- **Testing:** Jest, React Testing Library  
+
+
+
+🗄️ **Database** - MySQL
+
+- **Database System:** MySQL  
+- **ORM:** Hibernate (JPA)  
+- **Connector:** `mysql-connector-java`  
+- **Persistence API:** Jakarta Persistence API  
+
+
+# 🚀 **How to Build and Run**
 
 Follow these step-by-step instructions to set up, build, and run the FINTRACK project.
 
