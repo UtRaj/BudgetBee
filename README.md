@@ -7,7 +7,7 @@
 An overview of the technologies powering the BudgetBee application.
 
 
-<summary>⚙️ **Backend** - Java & Spring Boot</summary>
+⚙️ **Backend** - Java & Spring Boot
 
 - **Language:** Java 17  
 - **Framework:** Spring Boot  
@@ -18,7 +18,7 @@ An overview of the technologies powering the BudgetBee application.
 - **Build Tool:** Maven  
 
 
-<summary>💻 **Frontend** - ReactJS</summary>
+💻 **Frontend** - ReactJS
 
 - **Language:** JavaScript (Node.js 18.15.0)  
 - **Framework:** ReactJS  
@@ -30,42 +30,31 @@ An overview of the technologies powering the BudgetBee application.
 - **Authentication:** bcryptjs, js-cookie  
 - **Testing:** Jest, React Testing Library  
 
-</details>
 
----
 
-<details>
-<summary>🗄️ **Database** - MySQL</summary>
+🗄️ **Database** - MySQL
 
 - **Database System:** MySQL  
 - **ORM:** Hibernate (JPA)  
 - **Connector:** `mysql-connector-java`  
 - **Persistence API:** Jakarta Persistence API  
 
-</details>
 
----
 
 # 🚀 **Features Overview**
 
 A web application meant to manage one's personal finances, track bank accounts and visualize expenses with ease.  
 
----
 
-<details>
-<summary>🔐 **Authentication Workflow**</summary>
+🔐 **Authentication Workflow**
 
 - User can **Sign Up** and **Log In** securely.  
 - Password validation ensures secure signup (password & confirm password must match).  
 - Redirects users to the **Dashboard** upon successful login.  
 - User-friendly error notifications for incorrect credentials.  
 
-</details>
 
----
-
-<details>
-<summary>📊 **Dashboard Module**</summary>
+📊 **Dashboard Module**
 
 - Visualizes finances with charts for:  
   - Account Balance  
@@ -75,12 +64,8 @@ A web application meant to manage one's personal finances, track bank accounts a
 - Filter charts based on **All Time** or **Last 15 Days**.  
 - Responsive design for seamless navigation across devices.  
 
-</details>
 
----
-
-<details>
-<summary>📂 **Account Management**</summary>
+📂 **Account Management**
 
 - View a list of all user accounts.  
 - Add new accounts with validation checks.  
@@ -88,12 +73,8 @@ A web application meant to manage one's personal finances, track bank accounts a
 - Delete accounts securely with confirmation prompts.  
 - Real-time toaster notifications for user actions.  
 
-</details>
 
----
-
-<details>
-<summary>💸 **Transaction Module**</summary>
+💸 **Transaction Module**
 
 - View all **Income** and **Expense** transactions.  
 - Filter transactions by specific accounts.  
@@ -105,40 +86,28 @@ A web application meant to manage one's personal finances, track bank accounts a
 - Edit and delete transactions easily.  
 - Real-time feedback with confirmation notifications.  
 
-</details>
 
----
-
-<details>
-<summary>📁 **Category Management**</summary>
+📁 **Category Management**
 
 - Add custom categories for expense/income tracking.  
 - Edit or delete categories as needed.  
 - Categories auto-sync with the transaction module for seamless integration.  
 
-</details>
 
----
 
-<details>
-<summary>🔄 **Mock Bank API Integration**</summary>
+🔄 **Mock Bank API Integration**
 
 - Fetches transactions directly from a **Mock Bank API**.  
 - Integrates both manual and automated transaction data for consistency.  
 - Real-time synchronization with the user's dashboard and reports.  
 
-</details>
-
----
 
 # 🚀 **How to Build and Run FINTRACK**
 
 Follow these step-by-step instructions to set up, build, and run the FINTRACK project.
 
----
 
-<details>
-<summary>🔧 **1. Setup Prerequisites**</summary>
+🔧 **1. Setup Prerequisites**
 
 - Install **Java 17**  
 - Install **Node.js (version 18.15.0)**  
@@ -146,14 +115,13 @@ Follow these step-by-step instructions to set up, build, and run the FINTRACK pr
 - Install **Maven** (for backend)  
 - Install **npm** (for frontend)  
 
-</details>
 
 
----
 
 
-<details>
-<summary>⚙️ **2. Build & Run the Backend**</summary>
+
+
+⚙️ **2. Build & Run the Backend**
 
 1. Navigate to the backend folder. 
 
@@ -177,14 +145,14 @@ java -jar ./target/backend-0.0.1-SNAPSHOT.jar
 
 5. ✅ Backend will start running at: http://localhost:8080
 
-</details>
 
 
----
 
 
-<details> 
-<summary>💻 **3. Build & Run the Frontend**</summary>
+
+
+
+💻 **3. Build & Run the Frontend**
 
 1. Navigate to the frontend folder:
 
