@@ -1,0 +1,9 @@
+com\backend\service\Impl\CategoryServiceImplTests.class
+com\backend\service\Impl\ExpenseServiceImplTests.class
+com\backend\it\CategoryIntegrationTests.class
+com\backend\it\IncomeIntegrationTests.class
+com\backend\service\Impl\UserServiceImplTests.class
+com\backend\service\Impl\IncomeServiceImplTests.class
+com\backend\it\AccountIntegrationTests.class
+com\backend\it\ExpenseIntegrationTests.class
+com\backend\service\Impl\AccountServiceImplTests.class

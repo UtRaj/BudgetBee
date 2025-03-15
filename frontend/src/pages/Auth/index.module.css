@@ -1,0 +1,22 @@
+.passwordIcon {
+    top:22px;
+    right:10px;
+    cursor: pointer;
+}
+
+.cardStyle {
+    width:30%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+@media screen and (max-width: 1000px) {
+    .cardStyle {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .cardStyle {
+        width: 80%;
+    }
+}

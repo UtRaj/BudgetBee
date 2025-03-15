@@ -1,0 +1,30 @@
+.drawerPaper{
+   position: relative;
+   white-space: nowrap;
+   width: 240px;
+}
+.drawerPaperClose{
+    overflow-x: hidden;
+    width: 200px;
+}
+
+.list-item-active{
+    color:brown;
+    background-color: #1976d2;
+}
+
+.icon {
+    height: 24px;
+    width: 24px;
+    color: rgba(0, 0, 0, 0.54);;
+}
+
+.title {
+    cursor: pointer;
+    width: fit-content;
+}
+
+.navbar {
+    position: sticky;
+    top: 0;
+}

@@ -1,0 +1,14 @@
+.pointer {
+    cursor: pointer;
+}
+
+.background {
+    height: 100vh;
+    background: linear-gradient(155deg, rgba(17,7,182) 50%, rgba(255,255,255) 50%);
+}
+
+@media screen and (max-width: 600px) {
+    .background {
+        background: linear-gradient(120deg, rgba(17,7,182) 50%, rgba(255,255,255) 50%);
+    }
+}
